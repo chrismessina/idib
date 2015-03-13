@@ -1,0 +1,5 @@
+IDentity In The Browser
+
+## Definition ##
+
+IDentity In the Browser aka IDIB (pronounced 'eye dib')
